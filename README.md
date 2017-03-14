@@ -7,9 +7,9 @@
 
 <h5 style="margin:18px 0px 5px 0px;">TECHNICAL SKILLS</h5>
 <ul style="list-style-type: none; padding-left:0; padding-bottom:5px;">
- <li>:: Languages: JavaScript, Node.js, HTML5, CSS3, PostgreSQL</li>
- <li>:: Libraries & frameworks: Hapi, Handlebars, Joi, JQuery, Materialize</li>
- <li>:: Testing: Jasmine, QUnit, Tape, Travis CI, Nightwatch.js</li>
+ <li>Languages: JavaScript, Node.js, HTML5, CSS3, PostgreSQL</li>
+ <li>Libraries & frameworks: Hapi, Handlebars, Joi, JQuery, Materialize</li>
+ <li>Testing: Jasmine, QUnit, Tape, Travis CI, Nightwatch.js</li>
 </ul>
 
 <h5 style="margin:18px 0px 5px 0px;">EMPLOYMENT HISTORY</h5>
