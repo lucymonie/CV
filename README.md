@@ -13,13 +13,13 @@
 </ul>
 
 <h5 style="margin:18px 0px 5px 0px;">EMPLOYMENT HISTORY</h5>
-<p><span style="font-weight:bold;">Fullstack developer</span> | Outlandish   
+<p><span style="font-weight:bold;">Fullstack developer</span> | Outlandish<br>
 I am currently working on a month-long project for homeless charity <a href="https://centrepoint.org.uk">Centrepoint</a>, funded by digital cooperative <a href="https://outlandish.com">Outlandish</a> and supported by digital identity platform <a href="https://www.yoti.com/developers/">Yoti</a>.</p>
 
-<p><span style="font-weight:bold;">Mentor</span> | Founders & Coders   
+<p><span style="font-weight:bold;">Mentor</span> | Founders & Coders<br>
 I am a mentor for the tenth cohort of Founders & Coders, supporting API- and database-oriented weeks of the course. I wrote a workshop about APIs that you can view on <a href="https://github.com/lucymonie/api-workshop">Github</a>.</p>
 
-<span style="font-weight:bold;">Publishing</span> | Melbourne and London
+<span style="font-weight:bold;">Publishing</span> | Melbourne and London<br>
 <ul>
 <li>Freelance editor at Content Operandi (2011-2015)</li>
 <li>Editor and commissioning editor at Lonely Planet (2004-2010)</li>
