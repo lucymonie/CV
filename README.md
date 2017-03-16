@@ -2,11 +2,11 @@
 <h2>Lucy Monie Hall</h2>
 <p><a href="https://github.com/lucymonie">:: GitHub </a><a href="https://www.linkedin.com/in/lucy-monie">:: LinkedIn </a><a href="https://twitter.com/LucyMonie">:: Twitter </a><a href="https://www.codewars.com/users/lucymonie/">:: Codewars </a><a href="https://www.freecodecamp.com/lucymonie">:: FreeCodeCamp ::</a></p>
 
-<p>I am a full-stack developer in JavaScript and Node.js. I have created applications using PostgreSQL and I am teaching myself Ruby in my spare time. I am interested in functional programming and test-driven development. I recently completed a coding bootcamp at <a href="http://www.foundersandcoders.com/">Founders & Coders</a>, a coding school based in Bethnal Green, east London.</p>
+<p>I am a full-stack developer in JavaScript and Node.js interested in functional programming and test-driven development. I am currently working freelance at Founders & Coders in east London.</p>
 <p>Previously, I was a commissioning editor at travel publisher Lonely Planet, and I bring organisation, creativity and communication skills from my experiences in publishing to my new career in web development.</p>
 
 <h5 style="margin:18px 0px 5px 0px;">TECHNICAL SKILLS</h5>
-<ul style="list-style-type: none; padding-left:0; padding-bottom:5px;">
+<ul>
  <li>Languages: JavaScript, Node.js, HTML5, CSS3, PostgreSQL</li>
  <li>Libraries & frameworks: Hapi, Handlebars, Joi, JQuery, Materialize</li>
  <li>Testing: Jasmine, QUnit, Tape, Travis CI, Nightwatch.js</li>
