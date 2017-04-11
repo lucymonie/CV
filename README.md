@@ -17,10 +17,10 @@
 I am currently working on an app for youth homeless charity, <a href="https://centrepoint.org.uk">Centrepoint</a>. The purpose is to make it easier for those formerly homeless to get access to support by making their data available to them electronically. Identification of those requesting data is a significant hurdle, so the app integrates a digital identity platform called <a href="https://www.yoti.com/developers/">Yoti</a>. The data comes from Centrepoint's CRM, which is a homelesss-specific version of Salesforce, called In-Form. The app queries a sandbox version of Centrepoint's instance of In-Form, using the Salesforce API. This was a joint project with Founders & Coders, Yoti, Centrepoint and <a href="https://outlandish.com/">Outlandish</a>.</p>
 
 <p><span style="font-weight:bold;">Mentor</span> | Founders & Coders<br>
-I am a mentor for the tenth cohort of Founders & Coders, supporting API- and database-oriented weeks of the course. I wrote a workshop about APIs that you can view on <a href="https://github.com/lucymonie/api-workshop">Github</a>.</p>
+I am a mentor for the tenth cohort of Founders & Coders coding bootcamp, supporting the teaching of APIs, databases and authentication.</p>
 
 <span style="font-weight:bold;">Publishing</span> | Melbourne and London<br>
-<ul>
+<ul style="margin-top:0px;">
 <li>Freelance editor at Content Operandi (2011-2015)</li>
 <li>Editor and commissioning editor at Lonely Planet (2004-2010)</li>
 <li>Product manager at Hardie Grant Egmont (2003)</li>
