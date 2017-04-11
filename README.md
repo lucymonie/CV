@@ -18,7 +18,7 @@ I am currently working on an app for youth homeless charity, <a href="https://ce
 
 <p><span style="font-weight:bold;">Mentor</span> | Founders & Coders<br>
 I am a mentor for the tenth cohort of Founders & Coders, supporting API- and database-oriented weeks of the course. I wrote a workshop about APIs that you can view on <a href="https://github.com/lucymonie/api-workshop">Github</a>.</p>
-,
+
 <span style="font-weight:bold;">Publishing</span> | Melbourne and London<br>
 <ul>
 <li>Freelance editor at Content Operandi (2011-2015)</li>
