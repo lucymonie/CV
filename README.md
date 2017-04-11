@@ -1,6 +1,6 @@
 <div style="font-size:10px; width: 470px; margin-left: 25px; font-family: 'Actor', sans-serif;">
 <h2>Lucy Monie Hall</h2>
-<p><a href="https://github.com/lucymonie">:: GitHub </a><a href="https://www.linkedin.com/in/lucy-monie">:: LinkedIn </a><a href="https://twitter.com/LucyMonie">:: Twitter </a><a href="https://www.codewars.com/users/lucymonie/">:: Codewars </a><a href="https://www.freecodecamp.com/lucymonie">:: FreeCodeCamp ::</a></p>
+<p>:: <a href="https://github.com/lucymonie">GitHub</a> :: <a href="https://www.linkedin.com/in/lucy-monie">LinkedIn</a> :: <a href="https://twitter.com/LucyMonie">Twitter</a> :: <a href="https://www.codewars.com/users/lucymonie/">Codewars</a> :: <a href="https://www.freecodecamp.com/lucymonie">FreeCodeCamp</a> ::</p>
 
 <p>I am a full-stack developer in JavaScript and Node.js. I'm particularly interested in functional programming and test-driven development. I am currently working freelance at a digital cooperative called Outlandish, in north London.</p>
 <p>Previously, I was a commissioning editor at travel publisher Lonely Planet. I bring organisation, creativity and communication skills from my experiences in publishing to my new career in web development.</p>
