@@ -19,8 +19,8 @@ I am currently working on an app for youth homeless charity, <a href="https://ce
 <p><span style="font-weight:bold;">Mentor</span> | Founders & Coders<br>
 I am a mentor for the tenth cohort of Founders & Coders coding bootcamp, supporting the teaching of APIs, databases and authentication.</p>
 
-<span style="font-weight:bold;">Publishing</span> | Melbourne and London<br>
-<ul style="margin-top:-20px;">
+<span style="font-weight:bold;margin-bottom:0px;">Publishing</span> | Melbourne and London<br>
+<ul>
 <li>Freelance editor at Content Operandi (2011-2015)</li>
 <li>Editor and commissioning editor at Lonely Planet (2004-2010)</li>
 <li>Product manager at Hardie Grant Egmont (2003)</li>
