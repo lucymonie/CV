@@ -14,10 +14,12 @@
 
 <h5 style="margin:18px 0px 5px 0px;">EMPLOYMENT HISTORY</h5>
 <p><span style="font-weight:bold;">Fullstack developer</span> | Outlandish<br>
-I am currently working on an app for youth homeless charity, <a href="https://centrepoint.org.uk">Centrepoint</a>. The purpose is to make it easier for those formerly homeless to get access to support by making their data available to them electronically. Identification of those requesting data is a significant hurdle, so the app integrates a digital identity platform called <a href="https://www.yoti.com/developers/">Yoti</a>. The data comes from Centrepoint's CRM, which is a homelesss-specific version of Salesforce, called In-Form. The app queries a sandbox version of Centrepoint's instance of In-Form, using the Salesforce API. This was a joint project with Founders & Coders, Yoti, Centrepoint and <a href="https://outlandish.com/">Outlandish</a>.</p>
+I have worked on various projects including an election campaign site, [NHS Cuts](https://nhscuts.org.uk), and an anti-corruption site, [PNGi](http://pngiportal.org/). These projects are LAMP-based, with Angular, Sass, Wordpress and PostgreSQL or MySQL.  
 
 <p><span style="font-weight:bold;">Mentor</span> | Founders & Coders<br>
-I am a mentor for the tenth cohort of Founders & Coders coding bootcamp, supporting the teaching of APIs, databases and authentication.</p>
+I built an app for youth homeless charity, <a href="https://centrepoint.org.uk">Centrepoint</a>, to make it easier for those formerly homeless to get access to support by making their data available to them electronically. The app integrates a digital identity platform called <a href="https://www.yoti.com/developers/">Yoti</a>. The data comes from a sandbox version of Centrepoint's Salesforce instance, using the Salesforce API. This was a joint project with Founders & Coders, Yoti, Centrepoint and <a href="https://outlandish.com/">Outlandish</a>.  
+
+I was a mentor for the tenth cohort of Founders & Coders coding bootcamp, and I wrote a workshop for teaching the students about APIs.</p>
 
 <span style="font-weight:bold;margin-bottom:0px;">Publishing</span> | Melbourne and London<br>
 <ul>
