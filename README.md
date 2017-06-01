@@ -7,7 +7,7 @@
 
 <h5 style="margin:18px 0px 5px 0px;">EMPLOYMENT HISTORY</h5>
 <p><span style="font-weight:bold;">Fullstack developer</span> | Outlandish<br>
-I have worked on various projects including an election campaign site, [NHS Cuts](https://nhscuts.org.uk), and an anti-corruption site, [PNGi](http://pngiportal.org/). These projects are LAMP-based, with Angular, Sass, Wordpress and PostgreSQL or MySQL.  
+I have worked on various projects including an election campaign site, <a href="https://nhscuts.org.uk">NHS Cuts</a>, and an anti-corruption site, <a href="http://pngiportal.org/">PNGi</a>. These projects are LAMP-based, built with (among other things) Angular, Sass, Wordpress and PostgreSQL or MySQL.  
 
 <p><span style="font-weight:bold;">Mentor</span> | Founders & Coders<br>
 I built an app for youth homeless charity, <a href="https://centrepoint.org.uk">Centrepoint</a>, to make it easier for those formerly homeless to get access to support by making their data available to them electronically. The app integrates a digital identity platform called <a href="https://www.yoti.com/developers/">Yoti</a>. The data comes from a sandbox version of Centrepoint's Salesforce instance, using the Salesforce API. This was a joint project with Founders & Coders, Yoti, Centrepoint and <a href="https://outlandish.com/">Outlandish</a>.  
