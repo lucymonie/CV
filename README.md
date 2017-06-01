@@ -12,7 +12,7 @@ I have worked on various projects including an election campaign site, <a href="
 <p><span style="font-weight:bold;">Developer</span> | Founders & Coders<br>
 I built an app for youth homeless charity, <a href="https://centrepoint.org.uk">Centrepoint</a>, to make it easier for those formerly homeless to get access to support by making their data available to them electronically. The app integrates a digital identity platform called <a href="https://www.yoti.com/developers/">Yoti</a>. The data comes from a sandbox version of Centrepoint's Salesforce instance, using the Salesforce API. This was a joint project with Founders & Coders, Yoti, Centrepoint and <a href="https://outlandish.com/">Outlandish</a>.  
 
-I was also mentor for the 10th cohort of Founders & Coders coding bootcamp, and I wrote a workshop for teaching the students about APIs, which you can <a href="https://github.com/lucymonie/api-workshop">view here</a>.</p>
+I was also a mentor for the 10th cohort of Founders & Coders coding bootcamp, and I wrote a workshop for teaching the students about APIs, which you can <a href="https://github.com/lucymonie/api-workshop">view here</a>.</p>
 
 <span style="font-weight:bold;margin-bottom:0px;">Publishing</span> | Melbourne and London<br>
 <ul>
