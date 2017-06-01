@@ -5,13 +5,6 @@
 <p>I am a full-stack developer in JavaScript and Node.js. I'm particularly interested in functional programming and test-driven development. I am currently working freelance at a digital cooperative called Outlandish, in north London.</p>
 <p>Previously, I was a commissioning editor at travel publisher Lonely Planet. I bring organisation, creativity and communication skills from my experiences in publishing to my new career in web development.</p>
 
-<h5 style="margin:18px 0px 5px 0px;">TECHNICAL SKILLS</h5>
-<ul>
- <li>Code: JavaScript, Node.js, HTML5, CSS3, PostgreSQL, SOQL</li>
- <li>Libraries & frameworks: Hapi, Handlebars, Joi, JQuery, Materialize</li>
- <li>Testing: Jasmine, QUnit, Tape, Travis CI, Nightwatch.js</li>
-</ul>
-
 <h5 style="margin:18px 0px 5px 0px;">EMPLOYMENT HISTORY</h5>
 <p><span style="font-weight:bold;">Fullstack developer</span> | Outlandish<br>
 I have worked on various projects including an election campaign site, [NHS Cuts](https://nhscuts.org.uk), and an anti-corruption site, [PNGi](http://pngiportal.org/). These projects are LAMP-based, with Angular, Sass, Wordpress and PostgreSQL or MySQL.  
